@@ -1,0 +1,54 @@
+:root {
+    --color-rojo: #ff0000;
+    --color-azul: #0000FF;
+    --color-verde: #00FF00;
+    --color-gris: #c4c4c4;
+    --color-fucsia: #ff00ff;
+    --color-naranjo: #ff9100;
+    --color-blanco: #ffff
+    
+}
+
+.rojo {
+    background-color: var(--color-rojo);
+}
+
+.azul {
+    background-color: var(--color-azul);
+}
+
+.verde {
+    background-color: var(--color-verde);
+}
+
+.gris {
+    background-color: var(--color-gris);
+}
+
+.fucsia {
+    background-color: var(--color-fucsia);
+}
+
+.naranjo {
+    background-color: var(--color-naranjo);
+}
+.blanco {
+    background-color: var(--color-blanco);
+}
+
+.caja {
+    border: 3px solid black;
+    color: var(--color-blanco);
+    font-size: 4em;
+    margin:auto;
+    text-align: center;
+
+}
+
+.alto1 {
+    height: 150px;
+}
+
+.alto2 {
+    height: 100px;
+}
